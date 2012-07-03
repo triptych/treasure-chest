@@ -1,0 +1,1 @@
+Treasure Chest is a simple script that adds a RPG style treasure chest to your website of choice. Every day or so it'll be ready for you to click and get your loot!
